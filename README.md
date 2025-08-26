@@ -1,4 +1,4 @@
-# AI Rewriter Demo (Next.js)
+# AI Rewriter
 
 A minimal **Next.js 14** demo that rewrites user text using **OpenAI**. Includes a simple UI and an API route. If an `OPENAI_API_KEY` is not provided, the API falls back to a **mocked** rewriter so you can still demo it.
 
